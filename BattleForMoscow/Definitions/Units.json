@@ -1,0 +1,487 @@
+[
+    {
+        "number": "1",
+        "pos": 0,
+        "nation": "Soviet",
+        "type": "Shock",
+        "size": "XXXX",
+        "combatFull": 10,
+        "combatReduced": 5,
+        "movement": 4,
+        "strength": "full"
+    },
+    {
+        "number": "3",
+        "pos": 1,
+        "nation": "Soviet",
+        "type": "Infantry",
+        "size": "XXXX",
+        "combatFull": 8,
+        "combatReduced": 4,
+        "movement": 4,
+        "strength": "reduced",
+        "position": {
+            "x": 2,
+            "y": 0
+        }
+    },
+    {
+        "number": "5",
+        "pos": 2,
+        "nation": "Soviet",
+        "type": "Infantry",
+        "size": "XXXX",
+        "combatFull": 8,
+        "combatReduced": 4,
+        "movement": 4,
+        "strength": "reduced",
+        "position": {
+            "x": 2,
+            "y": 1
+        }
+    },
+    {
+        "number": "10",
+        "pos": 3,
+        "nation": "Soviet",
+        "type": "Infantry",
+        "size": "XXXX",
+        "combatFull": 8,
+        "combatReduced": 4,
+        "movement": 4,
+        "strength": "reduced",
+        "position": {
+            "x": 2,
+            "y": 2
+        }
+    },
+    {
+        "number": "13",
+        "pos": 4,
+        "nation": "Soviet",
+        "type": "Infantry",
+        "size": "XXXX",
+        "combatFull": 8,
+        "combatReduced": 4,
+        "movement": 4,
+        "strength": "reduced",
+        "position": {
+            "x": 2,
+            "y": 3
+        }
+    },
+    {
+        "number": "16",
+        "pos": 5,
+        "nation": "Soviet",
+        "type": "Infantry",
+        "size": "XXXX",
+        "combatFull": 8,
+        "combatReduced": 4,
+        "movement": 4,
+        "strength": "reduced",
+        "position": {
+            "x": 4,
+            "y": 2
+        }
+    },
+    {
+        "number": "19",
+        "pos": 6,
+        "nation": "Soviet",
+        "type": "Infantry",
+        "size": "XXXX",
+        "combatFull": 8,
+        "combatReduced": 4,
+        "movement": 4,
+        "strength": "reduced",
+        "position": {
+            "x": 3,
+            "y": 5
+        }
+    },
+    {
+        "number": "20",
+        "pos": 7,
+        "nation": "Soviet",
+        "type": "Infantry",
+        "size": "XXXX",
+        "combatFull": 8,
+        "combatReduced": 4,
+        "movement": 4,
+        "strength": "reduced",
+        "position": {
+            "x": 4,
+            "y": 5
+        }
+    },
+    {
+        "number": "24",
+        "pos": 8,
+        "nation": "Soviet",
+        "type": "Infantry",
+        "size": "XXXX",
+        "combatFull": 8,
+        "combatReduced": 4,
+        "movement": 4,
+        "strength": "reduced",
+        "position": {
+            "x": 4,
+            "y": 6
+        }
+    },
+    {
+        "number": "29",
+        "pos": 9,
+        "nation": "Soviet",
+        "type": "Infantry",
+        "size": "XXXX",
+        "combatFull": 8,
+        "combatReduced": 4,
+        "movement": 4,
+        "strength": "reduced",
+        "position": {
+            "x": 4,
+            "y": 7
+        }
+    },
+    {
+        "number": "30",
+        "pos": 10,
+        "nation": "Soviet",
+        "type": "Infantry",
+        "size": "XXXX",
+        "combatFull": 8,
+        "combatReduced": 4,
+        "movement": 4,
+        "strength": "reduced",
+        "position": {
+            "x": 5,
+            "y": 8
+        }
+    },
+    {
+        "number": "32",
+        "pos": 11,
+        "nation": "Soviet",
+        "type": "Infantry",
+        "size": "XXXX",
+        "combatFull": 8,
+        "combatReduced": 4,
+        "movement": 4,
+        "strength": "reduced",
+        "position": {
+            "x": 4,
+            "y": 8
+        }
+    },
+    {
+        "number": "33",
+        "pos": 12,
+        "nation": "Soviet",
+        "type": "Infantry",
+        "size": "XXXX",
+        "combatFull": 8,
+        "combatReduced": 4,
+        "movement": 4,
+        "strength": "reduced",
+        "position": {
+            "x": 4,
+            "y": 9
+        }
+    },
+    {
+        "number": "40",
+        "pos": 13,
+        "nation": "Soviet",
+        "type": "Infantry",
+        "size": "XXXX",
+        "combatFull": 8,
+        "combatReduced": 4,
+        "movement": 4,
+        "strength": "reduced",
+        "position": {
+            "x": 4,
+            "y": 10
+        }
+    },
+    {
+        "number": "43",
+        "pos": 14,
+        "nation": "Soviet",
+        "type": "Infantry",
+        "size": "XXXX",
+        "combatFull": 8,
+        "combatReduced": 4,
+        "movement": 4,
+        "strength": "reduced",
+        "position": {
+            "x": 7,
+            "y": 3
+        }
+    },
+    {
+        "number": "49",
+        "pos": 15,
+        "nation": "Soviet",
+        "type": "Infantry",
+        "size": "XXXX",
+        "combatFull": 8,
+        "combatReduced": 4,
+        "movement": 4,
+        "strength": "reduced"
+    },
+    {
+        "number": "50",
+        "pos": 16,
+        "nation": "Soviet",
+        "type": "Infantry",
+        "size": "XXXX",
+        "combatFull": 8,
+        "combatReduced": 4,
+        "movement": 4,
+        "strength": "reduced"
+    },
+    {
+        "number": "24",
+        "pos": 0,
+        "nation": "Germany",
+        "type": "Tank",
+        "size": "XXX",
+        "combatFull": 12,
+        "combatReduced": 6,
+        "movement": 6,
+        "strength": "full"
+    },
+    {
+        "number": "41",
+        "pos": 1,
+        "nation": "Germany",
+        "type": "Tank",
+        "size": "XXX",
+        "combatFull": 12,
+        "combatReduced": 6,
+        "movement": 6,
+        "strength": "full"
+    },
+    {
+        "number": "57",
+        "pos": 2,
+        "nation": "Germany",
+        "type": "Tank",
+        "size": "XXX",
+        "combatFull": 12,
+        "combatReduced": 6,
+        "movement": 6,
+        "strength": "full"
+    },
+    {
+        "number": "46",
+        "pos": 3,
+        "nation": "Germany",
+        "type": "Tank",
+        "size": "XXX",
+        "combatFull": 10,
+        "combatReduced": 5,
+        "movement": 6,
+        "strength": "full"
+    },
+    {
+        "number": "47",
+        "pos": 4,
+        "nation": "Germany",
+        "type": "Tank",
+        "size": "XXX",
+        "combatFull": 9,
+        "combatReduced": 4,
+        "movement": 6,
+        "strength": "full"
+    },
+    {
+        "number": "56",
+        "pos": 5,
+        "nation": "Germany",
+        "type": "Tank",
+        "size": "XXX",
+        "combatFull": 9,
+        "combatReduced": 4,
+        "movement": 6,
+        "strength": "full"
+    },
+    {
+        "number": "40",
+        "pos": 6,
+        "nation": "Germany",
+        "type": "Tank",
+        "size": "XXX",
+        "combatFull": 8,
+        "combatReduced": 4,
+        "movement": 6,
+        "strength": "full"
+    },
+    {
+        "number": "48",
+        "pos": 7,
+        "nation": "Germany",
+        "type": "Tank",
+        "size": "XXX",
+        "combatFull": 8,
+        "combatReduced": 4,
+        "movement": 6,
+        "strength": "full"
+    },
+    {
+        "number": "23",
+        "pos": 8,
+        "nation": "Germany",
+        "type": "Infantry",
+        "size": "XXX",
+        "combatFull": 8,
+        "combatReduced": 4,
+        "movement": 4,
+        "strength": "full"
+    },
+    {
+        "number": "35",
+        "pos": 9,
+        "nation": "Germany",
+        "type": "Infantry",
+        "size": "XXX",
+        "combatFull": 8,
+        "combatReduced": 4,
+        "movement": 4,
+        "strength": "full"
+    },
+    {
+        "number": "7",
+        "pos": 10,
+        "nation": "Germany",
+        "type": "Infantry",
+        "size": "XXX",
+        "combatFull": 7,
+        "combatReduced": 3,
+        "movement": 4,
+        "strength": "full"
+    },
+    {
+        "number": "8",
+        "pos": 11,
+        "nation": "Germany",
+        "type": "Infantry",
+        "size": "XXX",
+        "combatFull": 7,
+        "combatReduced": 3,
+        "movement": 4,
+        "strength": "full"
+    },
+    {
+        "number": "9",
+        "pos": 12,
+        "nation": "Germany",
+        "type": "Infantry",
+        "size": "XXX",
+        "combatFull": 7,
+        "combatReduced": 3,
+        "movement": 4,
+        "strength": "full"
+    },
+    {
+        "number": "5",
+        "pos": 13,
+        "nation": "Germany",
+        "type": "Infantry",
+        "size": "XXX",
+        "combatFull": 6,
+        "combatReduced": 3,
+        "movement": 4,
+        "strength": "full"
+    },
+    {
+        "number": "13",
+        "pos": 14,
+        "nation": "Germany",
+        "type": "Infantry",
+        "size": "XXX",
+        "combatFull": 6,
+        "combatReduced": 3,
+        "movement": 4,
+        "strength": "full"
+    },
+    {
+        "number": "20",
+        "pos": 15,
+        "nation": "Germany",
+        "type": "Infantry",
+        "size": "XXX",
+        "combatFull": 6,
+        "combatReduced": 3,
+        "movement": 4,
+        "strength": "full"
+    },
+    {
+        "number": "27",
+        "pos": 16,
+        "nation": "Germany",
+        "type": "Infantry",
+        "size": "XXX",
+        "combatFull": 6,
+        "combatReduced": 3,
+        "movement": 4,
+        "strength": "full"
+    },
+    {
+        "number": "53",
+        "pos": 17,
+        "nation": "Germany",
+        "type": "Infantry",
+        "size": "XXX",
+        "combatFull": 6,
+        "combatReduced": 3,
+        "movement": 4,
+        "strength": "full"
+    },
+    {
+        "number": "6",
+        "pos": 18,
+        "nation": "Germany",
+        "type": "Infantry",
+        "size": "XXX",
+        "combatFull": 5,
+        "combatReduced": 2,
+        "movement": 4,
+        "strength": "full"
+    },
+    {
+        "number": "12",
+        "pos": 19,
+        "nation": "Germany",
+        "type": "Infantry",
+        "size": "XXX",
+        "combatFull": 5,
+        "combatReduced": 2,
+        "movement": 4,
+        "strength": "full"
+    },
+    {
+        "number": "34",
+        "pos": 20,
+        "nation": "Germany",
+        "type": "Infantry",
+        "size": "XXX",
+        "combatFull": 4,
+        "combatReduced": 2,
+        "movement": 4,
+        "strength": "full"
+    },
+    {
+        "number": "42",
+        "pos": 21,
+        "nation": "Germany",
+        "type": "Infantry",
+        "size": "XXX",
+        "combatFull": 4,
+        "combatReduced": 2,
+        "movement": 4,
+        "strength": "full"
+    }
+]
