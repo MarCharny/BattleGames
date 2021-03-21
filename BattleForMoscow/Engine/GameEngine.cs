@@ -17,8 +17,8 @@ namespace BattleForMoscow.Engine
         private const string unitsDefinitionFile = "Definitions/Units.json";
         private MapEngine Map { get; }
 
-        private IReadOnlyList<Turn> Turns { get; }
-        private IReadOnlyList<UnitBase> Units { get; }
+        internal IReadOnlyList<Turn> Turns { get; }
+        internal IReadOnlyList<UnitBase> Units { get; }
 
         
 

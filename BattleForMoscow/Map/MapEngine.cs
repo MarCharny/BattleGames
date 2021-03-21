@@ -4,7 +4,7 @@ namespace BattleForMoscow.Map
 {
     public class MapEngine
     {
-        private Cell[,] Cells { get; }
+        internal Cell[,] Cells { get; }
 
         public MapEngine(Cell[,] cells)
         {

@@ -4,6 +4,11 @@
 
 [i1]: https://en.wikipedia.org/wiki/Frank_Chadwick
 
+# Задание 1
+Этап создания игровых персонажей (юнитов)
+В данной игре не предусмотрено пользовательское создание персонажей, все фишки (3 типов) предопределены заранее и загружены в виде json файла.
+Так же на данном этапе реализована игровое поле, состоящее из клеток, которые обладают набором свойств.
+
 # Сборка и запуск
 ## Windows
 1.	Установить .NET 5.0 SDK [x64](https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-5.0.201-windows-x64-installer) | [x86](https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-5.0.201-windows-x86-installer)
