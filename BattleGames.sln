@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BattleForMoscow", "BattleForMoscow\BattleForMoscow.csproj", "{FAC3EC48-6E5E-4A74-9B57-AD5A59C1447C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D8B1319F-11AD-4CB4-BEA3-AB387FB90538}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleForMoscow.Test", "BattleForMoscow.Test\BattleForMoscow.Test.csproj", "{69E3EB40-09A9-4F59-84B0-7DBABA27695D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC3EC48-6E5E-4A74-9B57-AD5A59C1447C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC3EC48-6E5E-4A74-9B57-AD5A59C1447C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC3EC48-6E5E-4A74-9B57-AD5A59C1447C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC3EC48-6E5E-4A74-9B57-AD5A59C1447C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69E3EB40-09A9-4F59-84B0-7DBABA27695D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E3EB40-09A9-4F59-84B0-7DBABA27695D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E3EB40-09A9-4F59-84B0-7DBABA27695D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E3EB40-09A9-4F59-84B0-7DBABA27695D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E47D726-F1FE-4D47-BFB2-7D738E369FD8}
+	EndGlobalSection
+EndGlobal

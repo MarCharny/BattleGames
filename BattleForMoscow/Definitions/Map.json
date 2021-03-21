@@ -1,0 +1,944 @@
+[
+    {
+        "x": 0,
+        "y": 0,
+        "terrain": "Field",
+        "replacement" : "Germany"
+    },
+    {
+        "x": 0,
+        "y": 1,
+        "terrain": "Field",
+        "rail": [ "NW", "NE" ],
+        "replacement" : "Germany"
+    },
+    {
+        "x": 0,
+        "y": 2,
+        "terrain": "Field",
+        "start": "Germany",
+        "replacement" : "Germany"
+    },
+    {
+        "x": 0,
+        "y": 3,
+        "terrain": "Field",
+        "start": "Germany",
+        "replacement" : "Germany"
+    },
+    {
+        "x": 0,
+        "y": 4,
+        "terrain": "Field",
+        "river": [ "S", "SE" ],
+        "rail": [ "NW", "NE" ],
+        "replacement" : "Germany"
+    },
+    {
+        "x": 0,
+        "y": 5,
+        "terrain": "Field",
+        "river": [ "N" ],
+        "start": "Germany",
+        "replacement" : "Germany"
+    },
+    {
+        "x": 0,
+        "y": 6,
+        "terrain": "Field",
+        "replacement" : "Germany"
+    },
+    {
+        "x": 0,
+        "y": 7,
+        "terrain": "Field",
+        "replacement" : "Germany"
+    },
+    {
+        "x": 0,
+        "y": 8,
+        "terrain": "Forest",
+        "replacement" : "Germany"
+    },
+    {
+        "x": 0,
+        "y": 9,
+        "terrain": "Field",
+        "rail": [ "SW", "NE" ],
+        "replacement" : "Germany"
+    },
+    {
+        "x": 0,
+        "y": 10,
+        "terrain": "Field",
+        "replacement" : "Germany"
+    },
+    {
+        "x": 1,
+        "y": 1,
+        "terrain": "Forest",
+        "rail": [ "SW", "SE" ],
+        "start": "Germany"
+    },
+    {
+        "x": 1,
+        "y": 2,
+        "terrain": "Forest",
+        "start": "Germany"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "terrain": "Forest",
+        "start": "Germany"
+    },
+    {
+        "x": 1,
+        "y": 4,
+        "terrain": "Field",
+        "city": "Normal",
+        "river": [ "S" ],
+        "rail": [ "SW", "S", "SE" ],
+        "start": "Germany",
+        "control": "Germany"
+    },
+    {
+        "x": 1,
+        "y": 5,
+        "terrain": "Field",
+        "river": [ "NW", "N", "NE" ],
+        "rail": [ "N", "SE" ],
+        "start": "Germany"
+    },
+    {
+        "x": 1,
+        "y": 6,
+        "terrain": "Field",
+        "start": "Germany"
+    },
+    {
+        "x": 1,
+        "y": 7,
+        "terrain": "Forest"
+    },
+    {
+        "x": 1,
+        "y": 8,
+        "terrain": "Forest"
+    },
+    {
+        "x": 1,
+        "y": 9,
+        "terrain": "Forest",
+        "rail": [ "SW", "SE" ],
+        "start": "Germany"
+    },
+    {
+        "x": 1,
+        "y": 10,
+        "terrain": "Forest",
+        "start": "Germany"
+    },
+    {
+        "x": 2,
+        "y": 0,
+        "terrain": "Forest",
+        "start": "Soviet"
+    },
+    {
+        "x": 2,
+        "y": 1,
+        "terrain": "Field",
+        "rail": [ "NW", "NE" ],
+        "start": "Soviet"
+    },
+    {
+        "x": 2,
+        "y": 2,
+        "terrain": "Field",
+        "start": "Soviet"
+    },
+    {
+        "x": 2,
+        "y": 3,
+        "terrain": "Field",
+        "start": "Soviet"
+    },
+    {
+        "x": 2,
+        "y": 4,
+        "terrain": "Field",
+        "river": [ "SW", "S", "SE" ],
+        "rail": [ "NW", "NE" ],
+        "start": "Germany"
+    },
+    {
+        "x": 2,
+        "y": 5,
+        "terrain": "Field",
+        "river": [ "N" ],
+        "rail": [ "NW", "S" ],
+        "start": "Germany"
+    },
+    {
+        "x": 2,
+        "y": 6,
+        "terrain": "Field",
+        "city": "Normal",
+        "rail": [ "N", "SE" ],
+        "start": "Germany",
+        "control": "Germany"
+    },
+    {
+        "x": 2,
+        "y": 7,
+        "terrain": "Forest"
+    },
+    {
+        "x": 2,
+        "y": 8,
+        "terrain": "Forest",
+        "start": "Germany"
+    },
+    {
+        "x": 2,
+        "y": 9,
+        "terrain": "Field",
+        "rail": [ "NW", "NE" ],
+        "start": "Germany"
+    },
+    {
+        "x": 2,
+        "y": 10,
+        "terrain": "Forest"
+    },
+    {
+        "x": 3,
+        "y": 1,
+        "terrain": "Forest",
+        "rail": [ "SW", "SE" ]
+    },
+    {
+        "x": 3,
+        "y": 2,
+        "terrain": "Field"
+    },
+    {
+        "x": 3,
+        "y": 3,
+        "terrain": "Field",
+        "river": [ "SE" ]
+    },
+    {
+        "x": 3,
+        "y": 4,
+        "terrain": "Field",
+        "river": [ "S", "SE", "NE" ],
+        "rail": [ "SW", "NE" ],
+        "start": "Germany"
+    },
+    {
+        "x": 3,
+        "y": 5,
+        "terrain": "Forest",
+        "river": [ "NW", "N" ],
+        "start": "Soviet"
+    },
+    {
+        "x": 3,
+        "y": 6,
+        "terrain": "Field",
+        "start": "Germany"
+    },
+    {
+        "x": 3,
+        "y": 7,
+        "terrain": "Field",
+        "rail": [ "NW", "SE" ],
+        "start": "Germany"
+    },
+    {
+        "x": 3,
+        "y": 8,
+        "terrain": "Forest",
+        "start": "Germany"
+    },
+    {
+        "x": 3,
+        "y": 9,
+        "terrain": "Forest",
+        "rail": [ "SW", "NE" ],
+        "start": "Germany"
+    },
+    {
+        "x": 3,
+        "y": 10,
+        "terrain": "Field",
+        "start": "Germany"
+    },
+    {
+        "x": 4,
+        "y": 0,
+        "terrain": "Fortification"
+    },
+    {
+        "x": 4,
+        "y": 1,
+        "terrain": "Fortification",
+        "rail": [ "NW", "NE" ]
+    },
+    {
+        "x": 4,
+        "y": 2,
+        "terrain": "Fortification",
+        "river": [ "S", "SE" ],
+        "start": "Soviet"
+    },
+    {
+        "x": 4,
+        "y": 3,
+        "terrain": "Fortification",
+        "river": [ "SW", "NW", "N" ],
+        "rail": [ "SW", "NE" ]
+    },
+    {
+        "x": 4,
+        "y": 4,
+        "terrain": "Fortification",
+        "river": [ "S", "SW", "NE" ]
+    },
+    {
+        "x": 4,
+        "y": 5,
+        "terrain": "Fortification",
+        "river": [ "N" ],
+        "start": "Soviet"
+    },
+    {
+        "x": 4,
+        "y": 6,
+        "terrain": "Fortification",
+        "start": "Soviet"
+    },
+    {
+        "x": 4,
+        "y": 7,
+        "terrain": "Field",
+        "rail": [ "NW", "S" ],
+        "start": "Soviet"
+    },
+    {
+        "x": 4,
+        "y": 8,
+        "terrain": "Field",
+        "city": "Normal",
+        "rail": [ "N", "SW", "S", "SE", "NE" ],
+        "control": "Soviet",
+        "start": "Soviet"
+    },
+    {
+        "x": 4,
+        "y": 9,
+        "terrain": "Forest",
+        "rail": [ "N", "S" ],
+        "start": "Soviet"
+    },
+    {
+        "x": 4,
+        "y": 10,
+        "terrain": "Forest",
+        "rail": [ "N", "S" ],
+        "start": "Soviet"
+    },
+    {
+        "x": 5,
+        "y": 1,
+        "terrain": "Field",
+        "city": "Normal",
+        "rail": [ "SW", "S", "SE" ],
+        "control": "Soviet"
+    },
+    {
+        "x": 5,
+        "y": 2,
+        "terrain": "Field",
+        "rail": [ "N", "S" ]
+    },
+    {
+        "x": 5,
+        "y": 3,
+        "terrain": "Field",
+        "city": "Normal",
+        "river": [ "NW", "S" ],
+        "rail": [ "SW", "N", "SE" ],
+        "control": "Soviet"
+    },
+    {
+        "x": 5,
+        "y": 4,
+        "terrain": "Forest",
+        "river": [ "SW", "NW", "N", "NE", "SE" ]
+    },
+    {
+        "x": 5,
+        "y": 5,
+        "terrain": "Field",
+        "river": [ "NW", "NE" ]
+    },
+    {
+        "x": 5,
+        "y": 6,
+        "terrain": "Field"
+    },
+    {
+        "x": 5,
+        "y": 7,
+        "terrain": "Field"
+    },
+    {
+        "x": 5,
+        "y": 8,
+        "terrain": "Field",
+        "rail": [ "SW", "NE" ],
+        "start": "Soviet"
+    },
+    {
+        "x": 5,
+        "y": 9,
+        "terrain": "Field",
+        "rail": [ "NW", "SE" ]
+    },
+    {
+        "x": 5,
+        "y": 10,
+        "terrain": "Field"
+    },
+    {
+        "x": 6,
+        "y": 0,
+        "terrain": "Forest"
+    },
+    {
+        "x": 6,
+        "y": 1,
+        "terrain": "Forest",
+        "rail": [ "NW", "SE" ]
+    },
+    {
+        "x": 6,
+        "y": 2,
+        "terrain": "Forest"
+    },
+    {
+        "x": 6,
+        "y": 3,
+        "terrain": "Forest",
+        "river": [ "SW" ],
+        "rail": [ "NW", "NE" ]
+    },
+    {
+        "x": 6,
+        "y": 4,
+        "terrain": "Field",
+        "river": [ "NW", "SW", "S" ]
+    },
+    {
+        "x": 6,
+        "y": 5,
+        "terrain": "Field",
+        "river": [ "N", "NW" ]
+    },
+    {
+        "x": 6,
+        "y": 6,
+        "terrain": "Field",
+        "rail": [ "S", "NE" ]
+    },
+    {
+        "x": 6,
+        "y": 7,
+        "terrain": "Forest",
+        "rail": [ "SW", "N" ]
+    },
+    {
+        "x": 6,
+        "y": 8,
+        "terrain": "Field"
+    },
+    {
+        "x": 6,
+        "y": 9,
+        "terrain": "Field",
+        "rail": [ "NW", "NE" ]
+    },
+    {
+        "x": 6,
+        "y": 10,
+        "terrain": "Field"
+    },
+    {
+        "x": 7,
+        "y": 1,
+        "terrain": "Fortification"
+    },
+    {
+        "x": 7,
+        "y": 2,
+        "terrain": "Fortification",
+        "rail": [ "NW", "NE" ]
+    },
+    {
+        "x": 7,
+        "y": 3,
+        "terrain": "Fortification",
+        "city": "Normal",
+        "rail": [ "SW", "NE" ],
+        "control": "Soviet",
+        "start": "Soviet"
+    },
+    {
+        "x": 7,
+        "y": 4,
+        "terrain": "Fortification"
+    },
+    {
+        "x": 7,
+        "y": 5,
+        "terrain": "Fortification",
+        "city": "Normal",
+        "river": [ "SW", "S" ],
+        "rail": [ "S", "NE" ],
+        "control": "Soviet"
+    },
+    {
+        "x": 7,
+        "y": 6,
+        "terrain": "Forest",
+        "river": [ "N", "NE", "SE" ],
+        "rail": [ "N", "SW" ]
+    },
+    {
+        "x": 7,
+        "y": 7,
+        "terrain": "Field",
+        "river": [ "NE", "SE" ]
+    },
+    {
+        "x": 7,
+        "y": 8,
+        "terrain": "Field",
+        "river": [ "NE" ]
+    },
+    {
+        "x": 7,
+        "y": 9,
+        "terrain": "Field",
+        "city": "Normal",
+        "rail": [ "SW", "NE" ],
+        "control": "Soviet"
+    },
+    {
+        "x": 7,
+        "y": 10,
+        "terrain": "Field"
+    },
+    {
+        "x": 8,
+        "y": 0,
+        "terrain": "Forest",
+        "rail": [ "NW", "SE" ]
+    },
+    {
+        "x": 8,
+        "y": 1,
+        "terrain": "Forest",
+        "rail": [ "SW", "SE" ]
+    },
+    {
+        "x": 8,
+        "y": 2,
+        "terrain": "Field",
+        "rail": [ "SW", "SE" ]
+    },
+    {
+        "x": 8,
+        "y": 3,
+        "terrain": "Field",
+        "river": [ "S" ],
+        "rail": [ "S", "NE" ]
+    },
+    {
+        "x": 8,
+        "y": 4,
+        "terrain": "Forest",
+        "river": [ "N", "NE" ],
+        "rail": [ "SW", "N" ]
+    },
+    {
+        "x": 8,
+        "y": 5,
+        "terrain": "Forest",
+        "river": [ "SW", "S", "SE" ]
+    },
+    {
+        "x": 8,
+        "y": 6,
+        "terrain": "Field",
+        "river": [ "SW", "NW", "N" ]
+    },
+    {
+        "x": 8,
+        "y": 7,
+        "terrain": "Field",
+        "river": [ "S", "SW", "NW" ]
+    },
+    {
+        "x": 8,
+        "y": 8,
+        "terrain": "Field",
+        "river": [ "N", "NE", "SE" ],
+        "rail": [ "SW", "NE" ]
+    },
+    {
+        "x": 8,
+        "y": 9,
+        "terrain": "Field",
+        "river": [ "NE", "SE" ]
+    },
+    {
+        "x": 8,
+        "y": 10,
+        "terrain": "Field",
+        "river": [ "NE" ]
+    },
+    {
+        "x": 9,
+        "y": 1,
+        "terrain": "Fortification",
+        "river": [ "NE", "SE" ],
+        "rail": [ "NW", "S" ]
+    },
+    {
+        "x": 9,
+        "y": 2,
+        "terrain": "Fortification",
+        "river": [ "NE", "SE" ],
+        "rail": [ "NW", "N", "SE" ]
+    },
+    {
+        "x": 9,
+        "y": 3,
+        "terrain": "Fortification",
+        "river": [ "NE" ],
+        "rail": [ "NW", "SW", "NE" ]
+    },
+    {
+        "x": 9,
+        "y": 4,
+        "terrain": "Fortification",
+        "river": [ "SW", "S" ]
+    },
+    {
+        "x": 9,
+        "y": 5,
+        "terrain": "Field",
+        "river": [ "N", "NE", "SE", "S" ]
+    },
+    {
+        "x": 9,
+        "y": 6,
+        "terrain": "Field",
+        "river": [ "NW", "N" ]
+    },
+    {
+        "x": 9,
+        "y": 7,
+        "terrain": "Field"
+    },
+    {
+        "x": 9,
+        "y": 8,
+        "terrain": "Field",
+        "river": [ "SW" ],
+        "rail": [ "SW", "NE" ]
+    },
+    {
+        "x": 9,
+        "y": 9,
+        "terrain": "Field",
+        "river": [ "NW", "SW" ]
+    },
+    {
+        "x": 9,
+        "y": 10,
+        "terrain": "Field",
+        "river": [ "NW", "SW" ],
+        "replacement" : "Soviet"
+    },
+    {
+        "x": 10,
+        "y": 0,
+        "terrain": "Field",
+        "river": [ "SW" ],
+        "replacement" : "Soviet"
+    },
+    {
+        "x": 10,
+        "y": 1,
+        "terrain": "Fortification",
+        "river": [ "SW", "NW" ],
+        "rail": [ "S", "NE" ]
+    },
+    {
+        "x": 10,
+        "y": 2,
+        "terrain": "Field",
+        "city": "Capital",
+        "river": [ "S", "SW", "NW" ],
+        "rail": [ "N", "NE", "SE", "S", "SW", "NW" ],
+        "control": "Soviet"
+    },
+    {
+        "x": 10,
+        "y": 3,
+        "terrain": "Fortification",
+        "river": [ "N", "NE" ],
+        "rail": [ "S", "N" ]
+    },
+    {
+        "x": 10,
+        "y": 4,
+        "terrain": "Fortification",
+        "river": [ "SW", "S", "SE" ],
+        "rail": [ "S", "N" ]
+    },
+    {
+        "x": 10,
+        "y": 5,
+        "terrain": "Fortification",
+        "river": [ "NW", "N" ],
+        "rail": [ "S", "N" ]
+    },
+    {
+        "x": 10,
+        "y": 6,
+        "terrain": "Fortification",
+        "city": "Major",
+        "rail": [ "S", "N" ],
+        "control": "Soviet"
+    },
+    {
+        "x": 10,
+        "y": 7,
+        "terrain": "Field",
+        "rail": [ "N", "SW" ]
+    },
+    {
+        "x": 10,
+        "y": 8,
+        "terrain": "Field"
+    },
+    {
+        "x": 10,
+        "y": 9,
+        "terrain": "Field"
+    },
+    {
+        "x": 10,
+        "y": 10,
+        "terrain": "Field",
+        "replacement" : "Soviet"
+    },
+    {
+        "x": 11,
+        "y": 1,
+        "terrain": "Forest",
+        "rail": [ "SW", "SE", "NE" ],
+        "replacement" : "Soviet"
+    },
+    {
+        "x": 11,
+        "y": 2,
+        "terrain": "Field",
+        "rail": [ "SW", "SE" ]
+    },
+    {
+        "x": 11,
+        "y": 3,
+        "terrain": "Fortification",
+        "river": [ "SW", "S" ],
+        "rail": [ "NW", "S", "SE" ]
+    },
+    {
+        "x": 11,
+        "y": 4,
+        "terrain": "Field",
+        "river": [ "S", "SE", "NE", "N" ],
+        "rail": [ "N", "SE" ]
+    },
+    {
+        "x": 11,
+        "y": 5,
+        "terrain": "Field",
+        "river": [ "N", "NW" ]
+    },
+    {
+        "x": 11,
+        "y": 6,
+        "terrain": "Field"
+    },
+    {
+        "x": 11,
+        "y": 7,
+        "terrain": "Field"
+    },
+    {
+        "x": 11,
+        "y": 8,
+        "terrain": "Field"
+    },
+    {
+        "x": 11,
+        "y": 9,
+        "terrain": "Field"
+    },
+    {
+        "x": 11,
+        "y": 10,
+        "terrain": "Field",
+        "replacement" : "Soviet"
+    },
+    {
+        "x": 12,
+        "y": 0,
+        "terrain": "Field",
+        "rail": [ "SW", "NE" ],
+        "replacement" : "Soviet"
+    },
+    {
+        "x": 12,
+        "y": 1,
+        "terrain": "Field",
+        "rail": [ "NW", "NE" ]
+    },
+    {
+        "x": 12,
+        "y": 2,
+        "terrain": "Forest",
+        "rail": [ "NW", "NE" ]
+    },
+    {
+        "x": 12,
+        "y": 3,
+        "terrain": "Field",
+        "river": [ "S", "SW" ],
+        "rail": [ "NW", "NE" ]
+    },
+    {
+        "x": 12,
+        "y": 4,
+        "terrain": "Field",
+        "river": [ "NW", "N", "NE" ],
+        "rail": [ "NW", "SE" ]
+    },
+    {
+        "x": 12,
+        "y": 5,
+        "terrain": "Field"
+    },
+    {
+        "x": 12,
+        "y": 6,
+        "terrain": "Field"
+    },
+    {
+        "x": 12,
+        "y": 7,
+        "terrain": "Field"
+    },
+    {
+        "x": 12,
+        "y": 8,
+        "terrain": "Field"
+    },
+    {
+        "x": 12,
+        "y": 9,
+        "terrain": "Field"
+    },
+    {
+        "x": 12,
+        "y": 10,
+        "terrain": "Field",
+        "replacement" : "Soviet"
+    },
+    {
+        "x": 13,
+        "y": 1,
+        "terrain": "Field",
+        "rail": [ "SW", "SE" ],
+        "replacement" : "Soviet"
+    },
+    {
+        "x": 13,
+        "y": 2,
+        "terrain": "Field",
+        "rail": [ "SW", "SE" ],
+        "replacement" : "Soviet"
+    },
+    {
+        "x": 13,
+        "y": 3,
+        "terrain": "Field",
+        "rail": [ "SW", "SE" ],
+        "replacement" : "Soviet"
+    },
+    {
+        "x": 13,
+        "y": 4,
+        "terrain": "Forest",
+        "river": [ "SW", "S" ],
+        "replacement" : "Soviet"
+    },
+    {
+        "x": 13,
+        "y": 5,
+        "terrain": "Field",
+        "city": "Normal",
+        "river": [ "N" ],
+        "rail": [ "NW", "S" ],
+        "replacement" : "Soviet",
+        "control": "Soviet"
+    },
+    {
+        "x": 13,
+        "y": 6,
+        "terrain": "Field",
+        "rail": [ "N", "SE" ],
+        "replacement" : "Soviet"
+    },
+    {
+        "x": 13,
+        "y": 7,
+        "terrain": "Field",
+        "replacement" : "Soviet"
+    },
+    {
+        "x": 13,
+        "y": 8,
+        "terrain": "Field",
+        "replacement" : "Soviet"
+    },
+    {
+        "x": 13,
+        "y": 9,
+        "terrain": "Field",
+        "replacement" : "Soviet"
+    },
+    {
+        "x": 13,
+        "y": 10,
+        "terrain": "Field",
+        "replacement" : "Soviet"
+    }
+]

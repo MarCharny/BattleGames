@@ -1,0 +1,309 @@
+[
+    {
+        "name": "Game prepare",
+        "number": 0,
+        "phases": [
+            {
+                "nation": "Germany",
+                "type": "Start"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Start"
+            }
+        ]
+    },
+    {
+        "name": "October 2nd, 1941 - Turn 1/7",
+        "number": 1,
+        "weather": "Normal",
+        "phases": [
+            {
+                "nation": "Germany",
+                "type": "Combat"
+            },
+            {
+                "nation": "Germany",
+                "type": "Movement"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Replacement",
+                "amount": 5
+            },
+            {
+                "nation": "Soviet",
+                "type": "Special"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Combat"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Movement"
+            }
+        ]
+    },
+    {
+        "name": "October 10th, 1941 - Turn 2/7",
+        "number": 2,
+        "weather": "Normal",
+        "phases": [
+            {
+                "nation": "Germany",
+                "type": "Replacement",
+                "amount": 1
+            },
+            {
+                "nation": "Germany",
+                "type": "Special"
+            },
+            {
+                "nation": "Germany",
+                "type": "Combat"
+            },
+            {
+                "nation": "Germany",
+                "type": "Movement"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Replacement",
+                "amount": 5
+            },
+            {
+                "nation": "Soviet",
+                "type": "Special"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Combat"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Movement"
+            }
+        ]
+    },
+    {
+        "name": "October 17th, 1941 - Turn 3/7 (Mud)",
+        "number": 3,
+        "weather": "Mud",
+        "phases": [
+            {
+                "nation": "Germany",
+                "type": "Replacement",
+                "amount": 1
+            },
+            {
+                "nation": "Germany",
+                "type": "Special"
+            },
+            {
+                "nation": "Germany",
+                "type": "Combat"
+            },
+            {
+                "nation": "Germany",
+                "type": "Movement"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Replacement",
+                "amount": 4
+            },
+            {
+                "nation": "Soviet",
+                "type": "Special"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Combat"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Movement"
+            }
+        ]
+    },
+    {
+        "name": "November 1st, 1941 - Turn 4/7 (Mud)",
+        "number": 4,
+        "weather": "Mud",
+        "phases": [
+            {
+                "nation": "Germany",
+                "type": "Replacement",
+                "amount": 1
+            },
+            {
+                "nation": "Germany",
+                "type": "Special"
+            },
+            {
+                "nation": "Germany",
+                "type": "Combat"
+            },
+            {
+                "nation": "Germany",
+                "type": "Movement"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Replacement",
+                "amount": 4
+            },
+            {
+                "nation": "Soviet",
+                "type": "Special"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Combat"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Movement"
+            }
+        ]
+    },
+    {
+        "name": "November 16th, 1941 - Turn 5/7",
+        "number": 5,
+        "weather": "Normal",
+        "phases": [
+            {
+                "nation": "Germany",
+                "type": "Replacement",
+                "amount": 1
+            },
+            {
+                "nation": "Germany",
+                "type": "Special"
+            },
+            {
+                "nation": "Germany",
+                "type": "Combat"
+            },
+            {
+                "nation": "Germany",
+                "type": "Movement"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Replacement",
+                "amount": 5
+            },
+            {
+                "nation": "Soviet",
+                "type": "Special"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Combat"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Movement"
+            }
+        ]
+    },
+    {
+        "name": "November 23rd, 1941 - Turn 6/7",
+        "number": 6,
+        "weather": "Normal",
+        "phases": [
+            {
+                "nation": "Germany",
+                "type": "Replacement",
+                "amount": 1
+            },
+            {
+                "nation": "Germany",
+                "type": "Special"
+            },
+            {
+                "nation": "Germany",
+                "type": "Combat"
+            },
+            {
+                "nation": "Germany",
+                "type": "Movement"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Replacement",
+                "amount": 5
+            },
+            {
+                "nation": "Soviet",
+                "type": "Special"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Combat"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Movement"
+            }
+        ]
+    },
+    {
+        "name": "December 1st, 1941 - Turn 7/7",
+        "number": 7,
+        "weather": "Normal",
+        "phases": [
+            {
+                "nation": "Germany",
+                "type": "Replacement",
+                "amount": 1
+            },
+            {
+                "nation": "Germany",
+                "type": "Special"
+            },
+            {
+                "nation": "Germany",
+                "type": "Combat"
+            },
+            {
+                "nation": "Germany",
+                "type": "Movement"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Replacement",
+                "amount": 5
+            },
+            {
+                "nation": "Soviet",
+                "type": "Special"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Combat"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Movement"
+            }
+        ]
+    },
+    {
+        "name": "Housekeeping",
+        "number": 8,
+        "phases": [
+            {
+                "nation": "Germany",
+                "type": "Housekeeping"
+            },
+            {
+                "nation": "Soviet",
+                "type": "Housekeeping"
+            }
+        ]
+    }
+]
+
